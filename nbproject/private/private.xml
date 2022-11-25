@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/GestionUsersForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/UserService.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/test/TestTracker.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/entities/Position.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/HelloWorld.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/Auth.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/VehiculeGpsTrackerService.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/test/TestVehiculeGpsTracker.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/PositionForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/ChartsForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/test/TestPosition.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/ChartsFormPositionVA.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/entities/User.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/dao/IDao.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/vehiculeService.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/hashage.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/entities/Tracker.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/service/PositionService.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/test/testVehicule.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/Main.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/TrackerForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/VehiculeTrackerForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/AfficherPositionVehiculeForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/vehiculeform1.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/AfficherPositionForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/connexion/Connexion.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/test/Test.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/ReportForm.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/forms/ChartsFormPositionV.java</file>
+            <file>file:/C:/Users/zidah/Desktop/evry/GTrackers/src/entities/VehiculeGpsTrqcker.java</file>
+        </group>
+    </open-files>
+</project-private>
